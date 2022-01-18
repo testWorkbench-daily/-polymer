@@ -1,0 +1,2 @@
+cnpm install
+polymer build
