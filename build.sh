@@ -1,3 +1,3 @@
+cnpm install  polymer-cli
 cnpm install
-npm install  polymer-cli
-cnpm build
+polymer build
